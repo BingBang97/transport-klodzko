@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+@import "compass/css3";
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:600);
+
+h2
+{
+	color: black;
+	font-size: 38px;
+	font-weight: bold;
+}
+
+body
+{
+	background-color: #E4DCDC; 
+	/*background-image: url("https://zapodaj.net/images/c7bbb70b46181.jpg");*/
+	font-family: Forefront;
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+}
+
+#container
+{	
+	text-align: center;
+}
+#opis_praca
+{
+	font-size: 25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding: 20px;
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/footer_lodyas.png") ;
+	margin-top: 8px;
+	height: auto;
+	width:1200px;
+	color: #fff;
+	display:inline-block;
+}
+#reklama
+{
+	height: 400px;
+	width: 1500px;
+	display: inline-block;
+align: center;
+}
+#footer
+{
+width: 100%;
+background-color: #333;
+text-align: right;
+height: auto;
+margin-top: 25px;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color:#fff;
+}
